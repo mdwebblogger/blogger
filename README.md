@@ -1,0 +1,2 @@
+# blogger
+All for blogspot
